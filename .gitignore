@@ -1,6 +1,9 @@
 # IDEA
 .idea
 
+# Imports file
+imports.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
